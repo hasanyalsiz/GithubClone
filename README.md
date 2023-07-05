@@ -1,4 +1,4 @@
-# GithubColoneProject
+# GithubCloneProject
 
 Bu proje, GitHub sayfasını profil bölümünün kolonlama amacıyla HTML, CSS ve SCSS kullanılarak oluşturulmuştur.
 
@@ -16,4 +16,4 @@ Bu projede, GitHub profil sayfasını kolonlama yöntemi kullanılarak tasarlanm
 Proje dizinindeki `index.html` dosyasını tarayıcınızda açarak sonuçları görebilirsiniz. Tarayıcı penceresi boyutunu değiştirerek, kolonlama düzeninin nasıl tepki verdiğini gözlemleyebilirsiniz.
 
 
-# GithubColone
+# GithubClone
