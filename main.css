@@ -160,11 +160,13 @@
 }
 .section-left h2 {
   width: 75%;
+  margin-left: 40%;
   font-weight: 500;
 }
 .section-left h3 {
   width: 75%;
   font-weight: 300;
+  margin-left: 40%;
 }
 .section-left .button {
   width: 75%;
