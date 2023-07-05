@@ -1,4 +1,4 @@
-# Github-clone-project
+# GithubColoneProject
 
 Bu proje, GitHub sayfasını profil bölümünün kolonlama amacıyla HTML, CSS ve SCSS kullanılarak oluşturulmuştur.
 
